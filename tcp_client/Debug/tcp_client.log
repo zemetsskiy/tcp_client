@@ -1,0 +1,3 @@
+﻿  tcp_client.cpp
+C:\Users\yaros\source\repos\tcp_client\tcp_client\tcp_client.cpp(199,27): warning C4018: <: несоответствие типов со знаком и без знака
+  tcp_client.vcxproj -> C:\Users\yaros\source\repos\tcp_client\Debug\tcp_client.exe
